@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-23T12:37:22 IST" name="Default suite" finished-at="2024-05-23T12:39:41 IST" duration-ms="139004">
+    <groups>
+    </groups>
+    <test started-at="2024-05-23T12:37:22 IST" name="Default test" finished-at="2024-05-23T12:39:41 IST" duration-ms="139004">
+      <class name="basicprograms.Practiceform">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:basicprograms.Practiceform@50a638b5]" started-at="2024-05-23T12:37:22 IST" name="beforeTest" finished-at="2024-05-23T12:39:02 IST" duration-ms="99600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="Registerform()[pri:0, instance:basicprograms.Practiceform@50a638b5]" started-at="2024-05-23T12:39:02 IST" name="Registerform" finished-at="2024-05-23T12:39:41 IST" duration-ms="39340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registerform -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:basicprograms.Practiceform@50a638b5]" started-at="2024-05-23T12:39:41 IST" name="afterTest" finished-at="2024-05-23T12:39:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- basicprograms.Practiceform -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
